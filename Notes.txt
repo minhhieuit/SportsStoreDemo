@@ -1,0 +1,18 @@
+=====================Các bước xây dựng website Sports Store.====================
+1 - Getting started
++ Creating the MVC Project
+-> Create the folder structure
+-> Configuring the application
++ Creating the Unit test project
++ Checking and running the Application
+
+2 - Starting the Domain Model
++ Creating the repository
++ Creating the fake repository
++ Registing the repository service.
+
+3 - Display a list of products.
++ Adding a controller.
++ Adding and configuring the View
++ Setting the default route
++ Running the application
